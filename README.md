@@ -5,8 +5,6 @@
 查看(https://github.com/hwanloong/Tinkung)
 
 # 支持设备
-Garmin：
-
+**Garmin：**
 instinct 2
-
 Forerunner 255 （开发中）
