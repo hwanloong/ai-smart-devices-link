@@ -6,6 +6,7 @@
 
 # 支持设备
 **Garmin：**
+
 instinct 2
 
 Forerunner 255 （开发中）
