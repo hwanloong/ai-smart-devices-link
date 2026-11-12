@@ -16,3 +16,7 @@ URL,模型名，key格式，见https://api-docs.deepseek.com/zh-cn/,
 instinct 2
 
 Forerunner 255 （开发中）
+
+# garmin设备安装方法
+
+将你的Garmin设备使用合适的数据线连接电脑，选择磁盘模式，约莫1分钟左右，在文件管理器中可以看到你的设备。将你的.prg文件复制到设备文件夹下\Garmin\Apps，扒开数据线后，过一会在应用界面即可找到软件。
